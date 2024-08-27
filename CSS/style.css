@@ -68,6 +68,10 @@ a{
 .newsletter-input [type="email"]{
     margin-right: 20px;
 }
+.logo{
+    color: #077d94;
+    font-weight: bolder;
+}
 
 .img-block {
     overflow: hidden;
